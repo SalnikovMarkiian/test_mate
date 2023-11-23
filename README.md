@@ -27,32 +27,45 @@ We designed and implemented all the **necessary business processes** that will c
 
 <details>
   <summary><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqRFNAis0vxGXeQDFA2thujnilvYO8eqTKDX5QgJ5APGtLTNQu0-d6rTkb8oSWOdyRyY&usqp=CAU" width="30"/> Java</summary>
-  The primary programming language used for the application.
+  
+    In this project, we used Java as the main programming language.
 </details>
 
 <details>
   <summary><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsq-7f5BWyog4cdeT1sQaYLVzhJ0o37Up8TjHvVU08WUgfyyMMRMHTVwJ5XReSjyhZa0&usqp=CAU" width="30"/> Spring Boot</summary>
-  A powerful framework for building Java-based applications.
+ 
+    A powerful framework for building Java-based applications.
 </details>
 
 <details>
   <summary><img src="https://www.baeldung.com/wp-content/uploads/2021/02/lsd-module-icon-1.png" width="30"/> Spring Data JPA</summary>
-  An object-relational mapping framework for Java.
+  
+    Simplifies data access and persistence with JPA (Java Persistence API).
 </details>
 
 <details>
   <summary><img src="https://www.javacodegeeks.com/wp-content/uploads/2014/07/spring-security-project.png" width="30"/> Spring Security</summary>
-  The primary programming language used for the application.
+  
+    Enables robust and secure authentication and authorization mechanisms.
 </details>
 
 <details>
   <summary><img src="https://oddblogger.com/wp-content/uploads/2021/03/swagger-logo-2.png" width="30"/> Swager</summary>
-  A powerful framework for building Java-based applications.
+  
+     Provides API documentation.
 </details>
 
 <details>
-  <summary><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="30"/> MySQL</summary>
-  An object-relational mapping framework for Java.
+  <summary><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="30"/> MySQL </summary>
+  
+    Utilization of a relational database to** **store** **information about:
+
+    🏨 accommodations; 
+    ‍🦲 users; 
+    * addresses; 
+    * bookings; 
+    * payments.
+
 </details>
 
 <details>
